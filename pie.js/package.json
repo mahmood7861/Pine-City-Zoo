@@ -1,0 +1,12 @@
+{
+  "name": "pine-city-zoo",
+  "version": "1.0.0",
+  "description": "Zoo Static Site",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
